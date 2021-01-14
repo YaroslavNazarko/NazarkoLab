@@ -14,3 +14,19 @@ No URL passed to function
 Time is:  09:18:43 PM
 Date is:  01-13-2021
 Доброї ночі
+============================= test session starts ==============================
+platform linux -- Python 3.7.5, pytest-6.2.1, py-1.10.0, pluggy-0.13.1
+rootdir: /home/recursed/Desktop/IStest/NazarkoLab/lab2
+collected 4 items
+
+tests/tests.py ....                                                      [100%]
+
+============================== 4 passed in 1.12s ===============================
+========================================
+Результат без параметрів: 
+No URL passed to function
+========================================
+Результат з правильною URL: 
+Time is:  10:52:24 PM
+Date is:  01-14-2021
+Доброї ночі
