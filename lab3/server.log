@@ -1,0 +1,8 @@
+INFO 2021-01-17 01:41:10,761 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: [never], next run: 2021-01-17 01:41:10)
+INFO 2021-01-17 01:41:10,780 root : Сервер доступний. Час на сервері: 2021-01-16T23:41:10.778
+INFO 2021-01-17 01:41:10,780 root : Запитувана сторінка: : /health/
+INFO 2021-01-17 01:41:10,781 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-17 01:41:10,781 root : Ключ: date, Значення: 2021-01-16T23:41:10.778
+INFO 2021-01-17 01:41:10,781 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-17 01:41:10,781 root : Ключ: server_info, Значення: posix
+INFO 2021-01-17 01:41:10,781 root : Ключ: client_info, Значення: python-requests/2.25.1
