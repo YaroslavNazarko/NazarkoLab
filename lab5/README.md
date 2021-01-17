@@ -19,6 +19,13 @@
     7)docker-prune - deleting containers, volumes, networks and images.
 
 
+5. Ті коміти писав з віртуалки там тільки англійська, а з робочого столу є й українська. Ну от запустив і все є, а зараз додав скріни.
+
+    ![logs](1.png)
+
+    ![main page](2.png)
+
+    ![hits](3.png)
 
 6. 2 Networks: public - user network and  
     secret - to access redis.
