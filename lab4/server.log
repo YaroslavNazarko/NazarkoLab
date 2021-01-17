@@ -1,0 +1,83 @@
+INFO 2021-01-17 01:41:10,761 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: [never], next run: 2021-01-17 01:41:10)
+INFO 2021-01-17 01:41:10,780 root : Сервер доступний. Час на сервері: 2021-01-16T23:41:10.778
+INFO 2021-01-17 01:41:10,780 root : Запитувана сторінка: : /health/
+INFO 2021-01-17 01:41:10,781 root : Відповідь сервера місти наступні поля:
+INFO 2021-01-17 01:41:10,781 root : Ключ: date, Значення: 2021-01-16T23:41:10.778
+INFO 2021-01-17 01:41:10,781 root : Ключ: current_page, Значення: /health/
+INFO 2021-01-17 01:41:10,781 root : Ключ: server_info, Значення: posix
+INFO 2021-01-17 01:41:10,781 root : Ключ: client_info, Значення: python-requests/2.25.1
+INFO 2021-01-17 11:04:56,669 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: [never], next run: 2021-01-17 11:04:56)
+ERROR 2021-01-17 11:04:56,731 root : Сервер не доступний.
+INFO 2021-01-17 11:05:56,807 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:04:56, next run: 2021-01-17 11:05:56)
+ERROR 2021-01-17 11:05:56,822 root : Сервер не доступний.
+INFO 2021-01-17 11:06:56,899 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:05:56, next run: 2021-01-17 11:06:56)
+ERROR 2021-01-17 11:06:56,935 root : Сервер не доступний.
+INFO 2021-01-17 11:07:57,013 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:06:56, next run: 2021-01-17 11:07:56)
+ERROR 2021-01-17 11:07:57,036 root : Сервер не доступний.
+INFO 2021-01-17 11:08:57,111 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:07:57, next run: 2021-01-17 11:08:57)
+ERROR 2021-01-17 11:08:57,158 root : Сервер не доступний.
+INFO 2021-01-17 11:09:57,229 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:08:57, next run: 2021-01-17 11:09:57)
+ERROR 2021-01-17 11:09:57,243 root : Сервер не доступний.
+INFO 2021-01-17 11:10:57,313 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:09:57, next run: 2021-01-17 11:10:57)
+ERROR 2021-01-17 11:10:57,333 root : Сервер не доступний.
+INFO 2021-01-17 11:11:57,410 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:10:57, next run: 2021-01-17 11:11:57)
+ERROR 2021-01-17 11:11:57,449 root : Сервер не доступний.
+INFO 2021-01-17 11:12:57,528 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:11:57, next run: 2021-01-17 11:12:57)
+ERROR 2021-01-17 11:12:57,557 root : Сервер не доступний.
+INFO 2021-01-17 11:13:57,631 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:12:57, next run: 2021-01-17 11:13:57)
+ERROR 2021-01-17 11:13:57,649 root : Сервер не доступний.
+INFO 2021-01-17 11:14:57,728 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:13:57, next run: 2021-01-17 11:14:57)
+ERROR 2021-01-17 11:14:57,747 root : Сервер не доступний.
+INFO 2021-01-17 11:15:57,825 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:14:57, next run: 2021-01-17 11:15:57)
+ERROR 2021-01-17 11:15:57,840 root : Сервер не доступний.
+INFO 2021-01-17 11:16:57,907 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:15:57, next run: 2021-01-17 11:16:57)
+ERROR 2021-01-17 11:16:57,954 root : Сервер не доступний.
+INFO 2021-01-17 11:17:58,023 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:16:57, next run: 2021-01-17 11:17:57)
+ERROR 2021-01-17 11:17:58,042 root : Сервер не доступний.
+INFO 2021-01-17 11:18:58,115 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:17:58, next run: 2021-01-17 11:18:58)
+ERROR 2021-01-17 11:18:58,148 root : Сервер не доступний.
+INFO 2021-01-17 11:19:58,236 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:18:58, next run: 2021-01-17 11:19:58)
+ERROR 2021-01-17 11:19:58,257 root : Сервер не доступний.
+INFO 2021-01-17 11:20:58,339 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:19:58, next run: 2021-01-17 11:20:58)
+ERROR 2021-01-17 11:20:58,389 root : Сервер не доступний.
+INFO 2021-01-17 11:21:58,470 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:20:58, next run: 2021-01-17 11:21:58)
+ERROR 2021-01-17 11:21:58,484 root : Сервер не доступний.
+INFO 2021-01-17 11:22:58,543 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:21:58, next run: 2021-01-17 11:22:58)
+ERROR 2021-01-17 11:22:58,560 root : Сервер не доступний.
+INFO 2021-01-17 11:23:58,634 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:22:58, next run: 2021-01-17 11:23:58)
+ERROR 2021-01-17 11:23:58,653 root : Сервер не доступний.
+INFO 2021-01-17 11:24:58,727 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:23:58, next run: 2021-01-17 11:24:58)
+ERROR 2021-01-17 11:24:58,741 root : Сервер не доступний.
+INFO 2021-01-17 11:25:58,826 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:24:58, next run: 2021-01-17 11:25:58)
+ERROR 2021-01-17 11:25:58,889 root : Сервер не доступний.
+INFO 2021-01-17 11:26:58,968 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:25:58, next run: 2021-01-17 11:26:58)
+ERROR 2021-01-17 11:26:58,981 root : Сервер не доступний.
+INFO 2021-01-17 11:27:59,053 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:26:58, next run: 2021-01-17 11:27:58)
+ERROR 2021-01-17 11:27:59,065 root : Сервер не доступний.
+INFO 2021-01-17 11:28:59,138 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:27:59, next run: 2021-01-17 11:28:59)
+ERROR 2021-01-17 11:28:59,153 root : Сервер не доступний.
+INFO 2021-01-17 11:29:59,232 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:28:59, next run: 2021-01-17 11:29:59)
+ERROR 2021-01-17 11:29:59,248 root : Сервер не доступний.
+INFO 2021-01-17 11:30:59,328 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:29:59, next run: 2021-01-17 11:30:59)
+ERROR 2021-01-17 11:30:59,346 root : Сервер не доступний.
+INFO 2021-01-17 11:31:59,426 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:30:59, next run: 2021-01-17 11:31:59)
+ERROR 2021-01-17 11:31:59,450 root : Сервер не доступний.
+INFO 2021-01-17 11:32:59,536 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:31:59, next run: 2021-01-17 11:32:59)
+ERROR 2021-01-17 11:32:59,554 root : Сервер не доступний.
+INFO 2021-01-17 11:33:59,628 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:32:59, next run: 2021-01-17 11:33:59)
+ERROR 2021-01-17 11:33:59,648 root : Сервер не доступний.
+INFO 2021-01-17 11:34:59,746 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:33:59, next run: 2021-01-17 11:34:59)
+ERROR 2021-01-17 11:34:59,764 root : Сервер не доступний.
+INFO 2021-01-17 11:35:59,852 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:34:59, next run: 2021-01-17 11:35:59)
+ERROR 2021-01-17 11:35:59,865 root : Сервер не доступний.
+INFO 2021-01-17 11:36:59,957 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:35:59, next run: 2021-01-17 11:36:59)
+ERROR 2021-01-17 11:36:59,996 root : Сервер не доступний.
+INFO 2021-01-17 11:38:00,086 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:36:59, next run: 2021-01-17 11:37:59)
+ERROR 2021-01-17 11:38:00,108 root : Сервер не доступний.
+INFO 2021-01-17 11:39:00,192 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:38:00, next run: 2021-01-17 11:39:00)
+ERROR 2021-01-17 11:39:00,213 root : Сервер не доступний.
+INFO 2021-01-17 11:40:00,303 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:39:00, next run: 2021-01-17 11:40:00)
+ERROR 2021-01-17 11:40:00,382 root : Сервер не доступний.
+INFO 2021-01-17 11:41:00,466 schedule : Running job Every 1 minute do main('http://docker.for.win.localhost:8000/health') (last run: 2021-01-17 11:40:00, next run: 2021-01-17 11:41:00)
+ERROR 2021-01-17 11:41:00,488 root : Сервер не доступний.
+
