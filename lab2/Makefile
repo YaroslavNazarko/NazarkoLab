@@ -28,3 +28,5 @@ deploy:
 	git commit -m "Lab2: deploy through make";
 	git push origin main
 	
+test-cli:
+	pipenv run pytest tests/tests.py
